@@ -48,7 +48,6 @@ folium
 fonttools
 fpdf
 future
-GDAL
 gdown
 geemap
 geocoder
